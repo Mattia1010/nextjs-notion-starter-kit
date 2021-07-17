@@ -7,19 +7,19 @@ module.exports = {
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Transitive Bullshit',
-  domain: 'transitivebullsh.it',
-  author: 'Travis Fischer',
+  name: 'Evenstudio',
+  domain: 'evenstudio.demo.it',
+  author: 'Evenstudio',
 
   // open graph metadata (optional)
-  description: 'Example site description',
-  socialImageTitle: 'Transitive Bullshit',
-  socialImageSubtitle: 'Hello World! 👋',
+  description: 'Architettura e design',
+  socialImageTitle: 'Evenstudio',
+  socialImageSubtitle: 'Hello',
 
   // social usernames (optional)
-  twitter: 'transitive_bs',
-  github: 'transitive-bullshit',
-  linkedin: 'fisch2',
+  // twitter: 'transitive_bs',
+  // github: 'transitive-bullshit',
+  // linkedin: 'fisch2',
 
   // default notion icon and cover images for site-wide consistency (optional)
   // page-specific values will override these site-wide defaults
